@@ -12,7 +12,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="container">
-            <h2>How to Generate QR Code in ASP.NET</h2>
+            <h2>Generate QR Code in ASP.NET</h2>
             <div class="row">
                 <div class="col-md-4">
                     <div class="form-group">
