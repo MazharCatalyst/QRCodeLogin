@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeLogin", "QRCodeLogin\QRCodeLogin.csproj", "{0F42F461-E369-43F2-A445-EE59824C2061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F42F461-E369-43F2-A445-EE59824C2061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F42F461-E369-43F2-A445-EE59824C2061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F42F461-E369-43F2-A445-EE59824C2061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F42F461-E369-43F2-A445-EE59824C2061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F38F1A-4279-4288-AC37-D9BEA7E48D6A}
+	EndGlobalSection
+EndGlobal
